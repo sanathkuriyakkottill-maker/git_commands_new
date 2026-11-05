@@ -7,3 +7,5 @@
 #gitadd filename ----> specify the file need to move
 
 #git commit -m "message"------> to move the file to git from staging area
+
+#  should be auto saved 
