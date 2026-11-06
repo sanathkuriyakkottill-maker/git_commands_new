@@ -9,3 +9,7 @@
 #git commit -m "message"------> to move the file to git from staging area
 
 #  should be auto saved 
+
+# git log  ------->to  knoe the details of the comits
+
+# git diff -------> to know the difference
